@@ -1,0 +1,18 @@
+# eclipse
+.settings/
+.classpath
+.project
+
+# temp
+*.swp
+*.tmp
+*.class
+\~\$*
+
+target/
+
+classes/
+test-classes/
+
+# project temp file
+SourceFiles/
